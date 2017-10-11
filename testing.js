@@ -3,3 +3,4 @@ var a = 5,
     c = 3,
     d = 'hello',
     e = 'goodbye';
+a
